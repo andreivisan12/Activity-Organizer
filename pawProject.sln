@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pawProject", "pawProject.csproj", "{D0D535F5-2FC1-4D02-B4DD-5214E4E74B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pawActivityControls", "..\pawActivityControls\pawActivityControls.csproj", "{062D0530-E98A-4B0D-9AA6-DF72794FCC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D535F5-2FC1-4D02-B4DD-5214E4E74B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D535F5-2FC1-4D02-B4DD-5214E4E74B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D535F5-2FC1-4D02-B4DD-5214E4E74B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D535F5-2FC1-4D02-B4DD-5214E4E74B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062D0530-E98A-4B0D-9AA6-DF72794FCC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062D0530-E98A-4B0D-9AA6-DF72794FCC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062D0530-E98A-4B0D-9AA6-DF72794FCC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062D0530-E98A-4B0D-9AA6-DF72794FCC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35C7C89B-B7C0-45DA-A1E0-48431528AAEA}
+	EndGlobalSection
+EndGlobal
