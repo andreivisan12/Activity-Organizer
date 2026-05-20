@@ -1,1 +1,1 @@
-# pawProject
+Windows Application Programming project
