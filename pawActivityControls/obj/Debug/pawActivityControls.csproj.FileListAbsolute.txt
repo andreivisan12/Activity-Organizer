@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\bin\Debug\pawActivityControls.dll
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\bin\Debug\pawActivityControls.pdb
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.ActivityCard.resources
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.dll
+C:\Users\andre\OneDrive\Desktop\info\pawActivityControls\obj\Debug\pawActivityControls.pdb
